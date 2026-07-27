@@ -1,0 +1,8 @@
+{
+  "name": "enterprise/fitness-habit-tracker-php-blade-v2026-88",
+  "description": "Fitness & Habit Tracking Ecosystem - PHP / Modular Blade Engine",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  }
+}
